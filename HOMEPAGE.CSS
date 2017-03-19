@@ -1,0 +1,18 @@
+html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+    }
+
+    header {
+        background-color: #1e9458;
+        padding: 0px;
+        border: 0px solid #000000;
+        display: block;
+    }
+    body {
+        background-color: #1e9458
+      ;
+    }
